@@ -1,4 +1,4 @@
-Deployable Link:
+Deployable Link:  https://abenezertmengesha.github.io/JSQuiz/
 # JSQuiz
 
 ![startpg](https://user-images.githubusercontent.com/90799809/225496828-6041be9e-7be8-4480-b752-4f7b36c64e96.png)
